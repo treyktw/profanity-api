@@ -1,0 +1,7 @@
+name = "profanity-api"
+compatibility_date = "2024-04-16"
+
+[vars]
+
+VECTOR_URL = "https://assured-burro-15694-us1-vector.upstash.io"
+VECTOR_TOKEN = "ABcFMGFzc3VyZWQtYnVycm8tMTU2OTQtdXMxYWRtaW5ZVE01TVRNNFl6QXRNVEEwTkMwMFpETmhMV0V4WkdFdFpUTTBNRGt6WmpjNFlXRmk="
